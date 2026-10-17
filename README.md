@@ -8,7 +8,7 @@
 
 **Hardware-Bound WebAuthn Passkeys (secp256r1) and Custom Account Abstraction SDK on Stellar Soroban with 2-of-3 Anchor Social Recovery and USDC Transfers.**
 
-Submitted to the **Stellar Community Fund (SCF #46 — Build Track up to $150,000 Award Pool)**.
+Submitted the **SCF #46 interest form** (Build track, Open track) on **2026-10-17** — full proposal pending SDF invitation.
 
 ---
 
@@ -100,3 +100,4 @@ Read the full project pitch deck, architectural rationale, and SCF proposal:
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
+
