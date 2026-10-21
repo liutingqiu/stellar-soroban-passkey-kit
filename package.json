@@ -5,6 +5,19 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liutingqiu/stellar-soroban-passkey-kit.git"
+  },
+  "homepage": "https://liutingqiu.github.io/stellar-soroban-passkey-kit/",
+  "bugs": {
+    "url": "https://github.com/liutingqiu/stellar-soroban-passkey-kit/issues"
+  },
   "scripts": {
     "build": "tsc",
     "test": "node --test tests/*.test.js"

@@ -2,13 +2,14 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/stellar-soroban-passkey-kit.svg)](https://www.npmjs.com/package/stellar-soroban-passkey-kit)
 [![Tests](https://img.shields.io/badge/Tests-7%2F7%20Passed-brightgreen)](tests/soroban_passkey.test.js)
 [![Stellar SCF](https://img.shields.io/badge/Stellar-SCF%20%2346%20%24150K-blue)](https://communityfund.stellar.org/awards)
 [![Live Terminal](https://img.shields.io/badge/Live%20Terminal-GitHub%20Pages-success)](https://liutingqiu.github.io/stellar-soroban-passkey-kit/)
 
 **Hardware-Bound WebAuthn Passkeys (secp256r1) and Custom Account Abstraction SDK on Stellar Soroban with 2-of-3 Anchor Social Recovery and USDC Transfers.**
 
-Submitted the **SCF #46 interest form** (Build track, Open track) on **2026-10-17** — full proposal pending SDF invitation.
+Published on npm as [`stellar-soroban-passkey-kit`](https://www.npmjs.com/package/stellar-soroban-passkey-kit). The **SCF #46 Build interest form** was submitted on 2026-10-17; we are strengthening traction (package releases, integrations, design partners) before resubmitting.
 
 ---
 
